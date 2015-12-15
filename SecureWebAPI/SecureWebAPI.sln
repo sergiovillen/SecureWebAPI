@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SercureWeb.API", "SercureWeb.API\SercureWeb.API.csproj", "{699E71D9-E86A-4CEB-BEE1-C5B2EDAB685E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SercureWeb.Web", "SercureWeb.Web\SercureWeb.Web.csproj", "{D32050D8-FE64-4EB9-8AD9-8688527B963C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{699E71D9-E86A-4CEB-BEE1-C5B2EDAB685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{699E71D9-E86A-4CEB-BEE1-C5B2EDAB685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{699E71D9-E86A-4CEB-BEE1-C5B2EDAB685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32050D8-FE64-4EB9-8AD9-8688527B963C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32050D8-FE64-4EB9-8AD9-8688527B963C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32050D8-FE64-4EB9-8AD9-8688527B963C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32050D8-FE64-4EB9-8AD9-8688527B963C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
